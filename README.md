@@ -1,2 +1,2 @@
 # SGA
-Here is my html file for my website.
+Here is my Final Front-End.This is a website which allows the customers order the products available at our store.
